@@ -146,8 +146,12 @@ React学習のアウトプットとして制作されたシンプルなグルメ
    
      画像、タイトル、基本情報、感想の投稿:
        ユーザーは店の画像、タイトル、基本情報、お店への感想などを投稿できます。シンプルなインターフェースを通じて、情報を簡単に入力できます。
+   
+   ![blogの一覧リスト](/screenshot/blogsc3.png)
+   ![blogの詳細と編集➀](/screenshot/blogsc2.png)
+   ![blogの詳細と編集➁](/screenshot/blogsc.png)
 
-5. テクノロジースタック:
+6. テクノロジースタック:
     React
     TypeScript
     JavaScript
