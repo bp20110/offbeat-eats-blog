@@ -1,0 +1,88 @@
+{
+  "blogs": [
+    {
+      "titleTop": "New Blog 1",
+      "bodyTop": "This is the first new blog with a long description that should wrap properly in the card.This is the first new blog with a long description that should wrap properly in the card.This is the first new blog with a long description that should wrap properly in the card.",
+      "titleSecond": "Second Title",
+      "bodySecond": "This is the second part of the blog.",
+      "titleThird": "Third Title",
+      "bodyThird": "This is the third part of the blog.",
+      "shopInfo": "This is the shop info for the first blog. It should also wrap properly.",
+      "imageTop": null,
+      "imageSecond": null,
+      "imageThird": null,
+      "author": "ChatGPT",
+      "id": 1
+    },
+    {
+      "titleTop": "New Blog 2",
+      "bodyTop": "This is the second new blog. It has a different description.",
+      "titleSecond": "Another Title",
+      "bodySecond": "This is another part of the blog.",
+      "titleThird": "More Title",
+      "bodyThird": "This is the last part of the blog.",
+      "shopInfo": "Shop information for the second blog. It should wrap properly as well.",
+      "imageTop": null,
+      "imageSecond": null,
+      "imageThird": null,
+      "author": "ChatGPT",
+      "id": 2
+    },
+    {
+      "titleTop": "New Blog 3",
+      "bodyTop": "A third new blog with multiple sections.",
+      "titleSecond": "Section 2",
+      "bodySecond": "This is the second section of the third blog.",
+      "titleThird": "Section 3",
+      "bodyThird": "And here's the third section of the third blog.",
+      "shopInfo": "Shop information for the third blog.",
+      "imageTop": null,
+      "imageSecond": null,
+      "imageThird": null,
+      "author": "ChatGPT",
+      "id": 3
+    },
+    {
+      "titleTop": "New Blog 4",
+      "bodyTop": "Yet another new blog to add to the collection.",
+      "titleSecond": "Second Section",
+      "bodySecond": "The second part of the fourth blog.",
+      "titleThird": "Third Section",
+      "bodyThird": "Completing the fourth blog with this section.",
+      "shopInfo": "Shop information for the fourth blog.",
+      "imageTop": null,
+      "imageSecond": null,
+      "imageThird": null,
+      "author": "ChatGPT",
+      "id": 4
+    },
+    {
+      "titleTop": "New Blog 5",
+      "bodyTop": "The fifth new blog is here. It's a long one!",
+      "titleSecond": "Part 2",
+      "bodySecond": "Continuing with the second section of the fifth blog.",
+      "titleThird": "Part 3",
+      "bodyThird": "The final section of the fifth blog.",
+      "shopInfo": "Shop information for the fifth blog. Wraps properly.",
+      "imageTop": null,
+      "imageSecond": null,
+      "imageThird": null,
+      "author": "ChatGPT",
+      "id": 5
+    },
+    {
+      "titleTop": "cheeseの海におぼれたい",
+      "bodyTop": "北海道から直送の新鮮なチーズと香り豊かなワインの組み合わせを楽しむことが出来るお店です。",
+      "titleSecond": "cheeseの海におぼれたい",
+      "bodySecond": "北海道から直送の新鮮なチーズと香り豊かなワインの組み合わせを楽しむことが出来るお店です。",
+      "titleThird": "cheeseの海におぼれたい",
+      "bodyThird": "北海道から直送の新鮮なチーズと香り豊かなワインの組み合わせを楽しむことが出来るお店です。",
+      "shopInfo": "埼玉県 川越市 川越市駅~ 徒歩５分",
+      "imageTop": null,
+      "imageSecond": null,
+      "imageThird": null,
+      "author": "",
+      "id": 6
+    }
+  ]
+}
